@@ -2,7 +2,7 @@
 
 > **How I Built an Agent to Slash Electricity Bills by 40% Using Solar & Price Forecasting**
 
-![Title](https://raw.githubusercontent.com/username/repo/main/images/title-animation.gif)
+![Title](https://raw.githubusercontent.com/aniket-work/autonomous-energy-optimizer/main/images/title-animation.gif)
 
 ## Overview
 This project is an experimental Proof of Concept (PoC) exploring how an autonomous AI agent can optimize home energy usage. By simulating real-time electricity pricing (Time-of-Use) and solar panel generation, the agent intelligently manages battery charging and discharging cycles to minimize costs and maximize green energy utilization.
